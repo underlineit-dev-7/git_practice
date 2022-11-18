@@ -1,0 +1,18 @@
+What is Git?
+Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. With a version control system , we can track our project history and work together.
+version control system  ?
+Version control, also known as source control, is the practice of tracking and managing changes to software code.   Version control systems are software tools that help software teams manage changes to source code over time. 
+Version control system falls under two categories.
+1)Centralized version control system:
+   In centralized system, all team members connect to a  central server to get the latest copy of a code and to share their changes       
+   with others. Microsoft Team foundation server and the Google Docs are the examples.
+DISADVANTAGES: If the server goes offline we cannot collaborate or save snapshots of our project. So, we have to wqait until the server comes back online.
+2)Distributed version control system:
+   Every team member has a copy of the project with its history on their machine. so we can save snapshots of our project locally on     
+   our machine. Git and mercurial are the examples.
+Why Git?
+Free
+open source
+super fast 
+scalable
+cheap branching / merging

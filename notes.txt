@@ -1,0 +1,13 @@
+version control system
+
+git - distributed version control system
+google docs- centralized versi....
+
+git pull 
+git push 
+git fetch
+git commit
+
+
+create a repository - readme file- git add- push -pull - fetch- commit.
+file save in git push , pull , fetch
